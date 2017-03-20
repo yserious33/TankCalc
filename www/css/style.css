@@ -1,0 +1,52 @@
+body{
+	background-color: #d6eff7;
+	}/* Empty. Add your own CSS if you like */
+img{
+	max-width: 600px;
+}
+div.item.item-image.item-body{
+	background-color:#7d7d7d; 
+}
+
+ion-content{
+	background-color:#cbefe3;
+
+
+}
+
+.enter{
+	font-size: .75em;
+}
+
+input-label{
+	font-family: -webkit-pictograph;
+    font-size: larger;
+    font-variant: small-caps;
+}
+h1.title {
+	font-size: 3em;
+    font-family: serif;
+    font-weight: bold;
+    font-variant: small-caps;
+    background-color: #00bcd4;
+}
+
+.pane, .view {
+	background-color: #cbefe3;
+}
+
+.totals {
+	text-align: center;
+}
+
+.bar .bar-top{
+	background-color: #00bcd4;
+	font-variant: small-caps;
+}
+p{
+	color: #009688;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	background-color: aliceblue;
+
+}
